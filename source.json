@@ -17,7 +17,9 @@
     "packages":[
         {
             "name":"org.vrton.assets2025",
-            "releases":[]
+            "releases":[
+                "https://github.com/VRTon/ASSETS2025/releases/download/1.0.0/org.vrton.assets2025.zip"
+            ]
         }
     ]
 }
