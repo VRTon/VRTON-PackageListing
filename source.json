@@ -19,7 +19,7 @@
             "name":"org.vrton.assets2025",
             "releases":[
                 "https://github.com/VRTon/ASSETS2025/releases/download/2.0.1/ASSETS2025.zip",
-                "https://github.com/VRTon/ASSETS2025/releases/download/2.0.2/ASSETS2025.zip"
+                "https://github.com/VRTon/ASSETS2025/releases/download/2.0.2/org.vrton.assets2025.zip"
             ]
         }
     ]
